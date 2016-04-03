@@ -1,0 +1,16 @@
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\bin\Debug\CIandTAPI.dll
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\bin\Debug\CIandTAPI.pdb
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\obj\Debug\CIandTAPI.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\obj\Debug\CIandTAPI.dll
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\obj\Debug\CIandTAPI.pdb
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\obj\Debug\CIandTAPI.Views.ListPost.xaml.g.cs
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\obj\Debug\CIandTAPI.Views.Cadastro.xaml.g.cs
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\obj\Debug\CIandTAPI.dll.mdb
+C:\Users\lucas\Documents\Projects\CIandTAPI\CIandTAPI\CIandTAPI\bin\Debug\CIandTAPI.dll.mdb
